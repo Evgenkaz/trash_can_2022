@@ -1,15 +1,15 @@
-##### h5  Структура проекта
+<h3 align="center">  Структура проекта
 
 
-├── data
-│   ├── sample_solution.csv
-│   ├── test_dataset
-│   ├── train
-│   ├── train.csv
-│   ├── Условие_задачи_Чемпионат_Республика_Башкортостан.pdf
-├── LICENSE
-├── README.md
-└── trash
-    ├── dataset.py
-    ├── predict_test.py
-    ├── train_model.py
+<h4 >├── data
+<h4 >│   ├── sample_solution.csv
+<h4 >│   ├── test_dataset
+<h4 >│   ├── train
+<h4 >│   ├── train.csv
+<h4 >│   ├── Условие_задачи_Чемпионат_Республика_Башкортостан.pdf
+<h4 >├── LICENSE
+<h4 >├── README.md
+<h4 >└── trash
+  <h4 >  ├── dataset.py
+  <h4 >  ├── predict_test.py
+  <h4 >  ├── train_model.py
