@@ -9,6 +9,7 @@
 <h4 >│         &nbsp;&nbsp;&nbsp;&nbsp;   ├── Условие_задачи_Чемпионат_Республика_Башкортостан.pdf
 <h4 >├── LICENSE
 <h4 >├── README.md
+<h4 >├── submission
 <h4 >└── trash
     <h4 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── dataset.py
     <h4 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── predict_test.py
