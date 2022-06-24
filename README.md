@@ -1,6 +1,6 @@
-├── checkpoints
-│   ├── 256_resnet50.onnx
-│   └── 256_resnet50.pt
+##### Структура проекта
+
+
 ├── data
 │   ├── sample_solution.csv
 │   ├── test
