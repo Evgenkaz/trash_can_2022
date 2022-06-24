@@ -2,11 +2,11 @@
 
 
 <h4 >├── data
-<h4 >│ <h4 >  ├── sample_solution.csv
-<h4 >│<h4 >   ├── test_dataset
-<h4 >│ <h4 >  ├── train
-<h4 >│ <h4 >  ├── train.csv
-<h4 >│ <h4 >  ├── Условие_задачи_Чемпионат_Республика_Башкортостан.pdf
+<h4 >│            ├── sample_solution.csv
+<h4 >│            ├── test_dataset
+<h4 >│            ├── train
+<h4 >│            ├── train.csv
+<h4 >│            ├── Условие_задачи_Чемпионат_Республика_Башкортостан.pdf
 <h4 >├── LICENSE
 <h4 >├── README.md
 <h4 >└── trash
