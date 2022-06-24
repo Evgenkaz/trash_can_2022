@@ -1,4 +1,7 @@
-![760](https://user-images.githubusercontent.com/99044896/175650624-ea4350b7-5ed3-4366-98f5-236383896835.jpg)
+
+<h1 align="center">  Оптимизация работы коммунальных служб
+
+![Новый проект (4)](https://user-images.githubusercontent.com/99044896/175652183-c76752bd-4617-4d8f-83f8-62674c11cf4c.jpg)
 <h3 align="center">  Структура проекта
 
 
